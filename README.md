@@ -7,7 +7,7 @@ Coding Platform is a web application that provides a platform for users to 🕹�
 ## ✨ Features
 
 * **User authentication:** Users can create accounts and 🔐 **log in** to access the coding challenges.
-(https://media.tenor.com/p0G_bmA2vSYAAAAd/login.gif)
+[https://media.tenor.com/p0G_bmA2vSYAAAAd/login.gif]
 * **Coding challenges:** The platform includes various 🧰 **coding challenges** that cover different programming languages and topics.
 https://lh3.googleusercontent.com/bip/APOwr83-AtRwPqt_5j2acPOFr7aZmMa-SkjjhMmkh0SRkVlZK7tiMbVo7eXkSYf9MTmgAnOT4NtYpRUdZ_lIeH-RTSWIlf2Xv6ETROYeQR7WYP0dj2SeEnt31ByTzkCbwHva2kZpDslbsZuupscZhCjr18kSAERQpBjvfjXxwSUoVmq7bjyz7YHOodV7j9lbEky_22oEoLp9rt9PIzPx6tVc9g2LcyQBvtvpSO3imp2Hbg5u02ffRR8B9zfsl7ciu0-Bgz0=w250-h200-p
 * **Code submission:** Users can submit their solutions to the coding challenges.
