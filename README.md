@@ -72,3 +72,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 💌 **Contact**
 
 If you have any questions or suggestions, please feel free to contact me at `shashwatmahender2104@gmail.com`.
+## 📃 Deployment
+
+The application is deployed on Heroku at <https://cp-643y.onrender.com/>.
